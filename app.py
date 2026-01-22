@@ -1,5 +1,4 @@
 import streamlit as st
-import requests
 
 st.title("Something")
 name = st.text_input("Name:")
